@@ -1,0 +1,191 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.box1 {
+    background-color: aquamarine;
+    height: 40px;
+    
+
+}
+
+.box2 {
+    background-color: rgb(86, 83, 238);
+    height: 50px;
+    
+
+}
+
+.li1 {
+    float: center;
+    padding-left: 120px;
+    font-size: 18px;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.links1 {
+    margin-top: 40px;
+    float: center;
+    padding-left: 140px 50px;
+    font-size: 22px;
+    margin-left: 100px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.li1:hover,
+.li1:active {
+    color: black;
+}
+
+.li2:hover,
+.li2:active {
+    color: rgb(189, 14, 14);
+}
+
+.box3 {
+    background-color: rgb(10, 9, 10);
+    height: 150px;
+}
+
+.h3 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.link1 {
+    border: 2px solid wheat;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    background-color: chartreuse;
+    margin-top: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.li3:hover,
+.li3:active {
+    color: rgb(0, 0, 0);
+    background-color: rgb(226, 53, 108);
+}
+
+.d {
+    padding: 10px;
+}
+
+.box4 {
+    background-color: antiquewhite;
+    height: 800px;
+}
+
+.h5 {
+    text-align: center;
+    padding: 50px;
+    font-size: 60px;
+}
+.row {
+    display: table;
+    table-layout: fixed;
+    margin-left: 100px;
+}
+.pic {
+    display: table-cell;
+    padding-left: 20px;
+    vertical-align: baseline;
+}
+.pic:first-child {
+    padding-left: 0;
+    
+}
+.pic img {
+    vertical-align: bottom;
+    margin-left: 50px;
+}
+.pic p {
+    margin: 0;
+    text-align: center;
+    margin-top: 20px;
+    line-height: 1px;
+    
+}
+
+.txt{
+    font-weight: bold;
+}
+
+.link3{
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #ffb12a;
+    text-decoration: none;
+}
+.li4:hover,
+.li4:active {
+    color: rgb(247, 247, 247);
+    background-color: rgb(5, 5, 5);
+}
+
+
+
+
+/* .photos {
+    display: block;
+}
+
+.photos ul {
+    list-style: none;
+
+}
+.photos ul li {
+    display: inline;
+    list-style: none;
+    float: left;
+    padding: 0 10px 0 0;
+    text-align: center;
+}
+
+.photos ul li span a {
+    background-color: #fff;
+}
+
+.photos ul li a {
+
+    display: block;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.span{
+    font-weight: bold;
+    text-align: center;
+}
+
+.link2 {
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(222, 219, 45);
+    margin-top: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+} */
+
+
+
+
+
+
+
+
+
